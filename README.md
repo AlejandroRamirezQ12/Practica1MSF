@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Alejandro Ramírez Zepeda [22211765]; L22211765@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
